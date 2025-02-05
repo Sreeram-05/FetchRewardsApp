@@ -43,7 +43,8 @@ fun ItemList(items: List<Item>) {
                 Surface(
                     color = MaterialTheme.colorScheme.primary,
                     modifier = Modifier
-                        .fillMaxWidth()
+                        .fillMaxWidth(),
+                    shape = MaterialTheme.shapes.small
                 ) {
                     Text(
                         text = "List ID: $listId",
