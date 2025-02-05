@@ -18,7 +18,6 @@ This is a simple Android application that retrieves and displays data from a rem
   - Clean Architecture principles for modular and testable code.
 - **Asynchronous Operations**: Powered by Kotlin Coroutines.
 - **Dependency Injection**: Managed using Hilt.
-- **Navigation**: Back navigation support with a top app bar and back icon.
 
 ---
 
